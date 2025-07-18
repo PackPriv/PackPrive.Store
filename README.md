@@ -1,4 +1,4 @@
 # PackPrive.Store
 Vendas de Packs
 
-[Home](https://packpriv.github.io/PackPrive.Store/site-packpriv/index.html)
+<a href="https://packpriv.github.io/PackPrive.Store/site-packpriv/index.html" target="_blank" rel="Site PackPriv">Home</a>
